@@ -1,22 +1,23 @@
 # Unity_Project1
 
 
+### `Change scene animation`
 
 https://github.com/user-attachments/assets/9ccc4843-0448-412b-9d89-6431ff5435f5
 
-
-
+### `Gun pull from drawer animation`
 
 https://github.com/user-attachments/assets/0c60088d-d051-4678-94d9-2e95aab83a49
 
+### `Shooting action animation`
 
 https://github.com/user-attachments/assets/246fdbd2-83e2-44a0-9757-a31bd25572fd
 
-
+### `Coin collection animation`
 
 https://github.com/user-attachments/assets/449b9be3-caa9-4f18-9cc8-880e92857ce8
 
-
+---
 
 <img width="1316" alt="פןב5" src="https://github.com/user-attachments/assets/2df32aaf-3f96-487c-a897-f67b4eb300f4">
 
